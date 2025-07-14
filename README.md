@@ -2,7 +2,7 @@
 
 This project performs data preprocessing and transformations on a sales dataset using PySpark.
 
-## Operations
+## Data Processing
 
 - Load data using `spark.read.csv`
 - Handle missing values using `Imputer` and `fillna`
