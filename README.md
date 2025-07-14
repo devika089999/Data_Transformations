@@ -1,9 +1,9 @@
 
-# Sales Data Transformation using PySpark
+# Filter Methods using PySpark
 
 This project showcases filtering, grouping, and aggregation operations on a sales dataset using PySpark.
 
-## Features
+## Methods
 
 - Load data from CSV
 - Apply conditional filters using PySpark `filter()` and SQL-style expressions
